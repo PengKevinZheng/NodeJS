@@ -21,7 +21,9 @@
     
  3.打开命令行，在项目根目录输入npm install，会安装package.json下面的项目依莱酷，安装完成后会出现node_modules目录。<br>
  
- 4.上一步应该会自动运行bower install,安装定义在bower.json里面的前端依赖库，会出现component目录，如果没有出现，可以手动运行bow er install安装。<br>
+
+
+
   
   
  
